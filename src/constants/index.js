@@ -15,7 +15,7 @@ export const navLinks = [
   },
   {
     id: "SIGN IN",
-    title: "SIGN IN",
+    title: "LOGIN / REGISTER",
   },
 ];
 
@@ -25,7 +25,7 @@ export const features = [
     icon: star,
     title: "Ownership",
     content:
-      "Have complete ownsership and control over your files.",
+      "Have complete ownership and control over your files.",
   },
   {
     id: "feature-2",
@@ -37,9 +37,9 @@ export const features = [
   {
     id: "feature-3",
     icon: send,
-    title: "Transactions",
+    title: "Accessibility",
     content:
-      "Multiparty transactions made extremely easy and secure.",
+      "You get to control access to the files you upload.",
   },
   
 ];

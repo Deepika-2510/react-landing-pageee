@@ -6,7 +6,7 @@ const CTA = () => (
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>Here's your first step in securing your files.</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Sign in today!
+        Join us today!
       </p>
     </div>
 
